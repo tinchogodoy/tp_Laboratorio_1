@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1525212498 source:d:\laboratorio y programacion 1\tp_2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+
+1525211572 d:\laboratorio y programacion 1\tp_2\tp2\funciones.h
+
+1524691840 source:d:\laboratorio y programacion 1\tp_2\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1524691840 d:\laboratorio y programacion 1\tp_2\tp2\utn.h
+
+1525211548 source:d:\laboratorio y programacion 1\tp_2\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+
+1525957729 source:c:\users\martin\documents\laboratorio y programacion 1\tp_2\tp2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+
+1525955675 c:\users\martin\documents\laboratorio y programacion 1\tp_2\tp2\funciones.h
+
+1524691840 c:\users\martin\documents\laboratorio y programacion 1\tp_2\tp2\utn.h
+
+1524691840 source:c:\users\martin\documents\laboratorio y programacion 1\tp_2\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1525957359 source:c:\users\martin\documents\laboratorio y programacion 1\tp_2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+
