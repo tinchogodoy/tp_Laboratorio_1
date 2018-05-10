@@ -12,8 +12,8 @@ int main()
     char seguir='s';
     int opcion=0;
     int rtaScanf;
-    /*per_init(arrayPersonas,ITEM);
-    strcpy(arrayPersonas[0].nombre,"Gerardo");
+    per_init(arrayPersonas,ITEM);
+    /*strcpy(arrayPersonas[0].nombre,"Gerardo");
     strcpy(arrayPersonas[1].nombre,"Pablo");
     strcpy(arrayPersonas[2].nombre,"German");
     strcpy(arrayPersonas[3].nombre,"Jose");
