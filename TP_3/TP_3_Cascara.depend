@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1528076041 source:c:\users\martin\documents\laboratorio y programacion 1\tp_3\tp_3_cascara\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1528076041 c:\users\martin\documents\laboratorio y programacion 1\tp_3\tp_3_cascara\tp_3_cascara\funciones.h
+
+1528077779 source:c:\users\martin\documents\laboratorio y programacion 1\tp_3\tp_3_cascara\tp_3_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1528077779 c:\users\martin\documents\laboratorio y programacion 1\tp_3\tp_3_cascara\tp_3_cascara\utn.h
+
+1528077719 source:c:\users\martin\documents\laboratorio y programacion 1\tp_3\tp_3_cascara\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+
+1528078390 source:c:\users\martin\desktop\tp 3 final\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+
+1528076041 c:\users\martin\desktop\tp 3 final\funciones.h
+
+1528077779 c:\users\martin\desktop\tp 3 final\utn.h
+
+1528076041 source:c:\users\martin\desktop\tp 3 final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1528077779 source:c:\users\martin\desktop\tp 3 final\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1528078390 source:c:\users\martin\desktop\pepe\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+
+1528076041 c:\users\martin\desktop\pepe\funciones.h
+
+1528077779 c:\users\martin\desktop\pepe\utn.h
+
+1528076041 source:c:\users\martin\desktop\pepe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1528077779 source:c:\users\martin\desktop\pepe\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
